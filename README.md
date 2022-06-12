@@ -9,11 +9,9 @@ My Cloud Journey: -
 
 I have completed 3xAWS certificate while doing cloud practice and looking to add more on AWS & Azure
 
-1. AWS Certified Cloud Practitioner
-
-2. AWS Certified Solutions Architect –Associate
-
-3. AWS Certified Developer – Associate
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect –Associate
+- AWS Certified Developer – Associate
 
 🔭 I’m currently working in Barclay's as AVP
 
@@ -21,7 +19,7 @@ I have completed 3xAWS certificate while doing cloud practice and looking to add
 
 📫 How to reach me:
 
-   LinkedIn : - https://www.linkedin.com/in/nitesh-g-57533029/
+- LinkedIn : - https://www.linkedin.com/in/nitesh-g-57533029/
 
 <!--
 **niteshghosh/niteshghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
