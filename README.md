@@ -7,17 +7,19 @@ IT professional with 11 years of experience in development and support, I enjoy 
 
 My Cloud Journey
 
-1.AWS Certified Cloud Practitioner
+1. AWS Certified Cloud Practitioner
 
-2.AWS Certified Solutions Architect –Associate
+2. AWS Certified Solutions Architect –Associate
 
-3.AWS Certified Developer – Associate
+3. AWS Certified Developer – Associate
 
-🔭 I’m currently working in Barclay's as AVP...
+🔭 I’m currently working in Barclay's as AVP
 
 🌱 I’m currently learning new tools and technlogies in DevOps Journey
 
-- 
+📫 How to reach me:
+   LinkedIn : - https://www.linkedin.com/in/nitesh-g-57533029/
+
 <!--
 **niteshghosh/niteshghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
