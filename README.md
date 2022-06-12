@@ -8,7 +8,9 @@ IT professional with 11 years of experience in development and support, I enjoy 
 My Cloud Journey
 
 1.AWS Certified Cloud Practitioner
+
 2.AWS Certified Solutions Architect –Associate
+
 3.AWS Certified Developer – Associate
 
 
