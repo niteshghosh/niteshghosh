@@ -13,7 +13,11 @@ My Cloud Journey
 
 3.AWS Certified Developer – Associate
 
+🔭 I’m currently working in Barclay's as AVP...
 
+🌱 I’m currently learning new tools and technlogies in DevOps Journey
+
+- 
 <!--
 **niteshghosh/niteshghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
