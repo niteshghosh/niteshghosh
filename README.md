@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub! 👋
 
-My name is Nitesh Ghosh, I live in Pune, India.
+My name is Nitesh Ghosh, I live in Bangalore, India.
 
 About Me - 
 IT professional with 11 years of experience in development and support, I enjoy creating new ideas and devising feasible solutions to relevant problems. Possess good interpersonal skills & effective communication. Experienced as a team leader as well as an excellent team player. Demonstrated ability to resolve the operational & technical issues. Off-work, I like watching movies, series and deep dive into blogs and posts related to new technologies, which enhance my skills. I am self-motivated person and eager to learn any new technologies for individual and organizational growth. Looking for the challenging role where I can constantly transcend my comfort zone and expand my knowledge about technology and business decisions.
